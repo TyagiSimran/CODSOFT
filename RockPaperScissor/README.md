@@ -1,1 +1,1 @@
-This is Rock Paper Scissor Game coded using python language.
+Python project—an interactive Rock, Paper, Scissors game! Using fundamental programming concepts, I developed this game that allows users to play the classic hand game against the computer. The program randomizes the computer's choice and determines the winner based on the traditional rules. I employed Python's conditional statements and loops to create a seamless user experience. 
