@@ -1,1 +1,1 @@
-This a Calculator made using python language
+Welcome to the Python Calculator! This simple yet functional calculator allows users to perform fundamental arithmetic operations with ease. Whether you need to add, subtract, multiply, or divide, this calculator has got you covered.
